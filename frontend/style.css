@@ -1,0 +1,28 @@
+
+span{
+    position: relative; 
+    left: -29px;
+    padding-top: 8px;
+}
+.d-flex {
+    width: 348px;
+}
+.navbar-brand{
+    display: flex;
+    align-self: flex-end;
+}
+.navbar-brand:hover{
+    color: gold;
+}
+#body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.form-control{
+    border-bottom: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(255, 255, 0);
+    background-color: #2b2828 ;
+}
